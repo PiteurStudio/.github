@@ -6,7 +6,6 @@
 
 ### **Services**  
 - **Web Development**: Laravel, WordPress, custom solutions.  
-- **E-Commerce**: WooCommerce, SaaS stores.  
 - **Open Source**: Tools and platforms tailored for Algeria.  
 
 ### **Projects**  
